@@ -1,4 +1,4 @@
-## Hi there 👋
+## [Portfolio Site](https://Tminchew.github.io/thomasminchew.com)
 
 <!--
 **Tminchew/Tminchew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
